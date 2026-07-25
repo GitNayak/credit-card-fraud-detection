@@ -95,8 +95,5 @@ This project uses supervised machine learning to detect fraudulent credit card t
 
 ---
 
-## 🧠 Author
 
-**Mudit Kapoor**  
-Project completed as part of portfolio development for data and business analytics roles.
 
